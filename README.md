@@ -13,12 +13,12 @@
 <p>
   <img src="https://img.shields.io/badge/VHDL-E30613?style=flat-square">
   <img src="https://img.shields.io/badge/Verilog-E30613?style=flat-square">
-  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Vivado-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/ModelSim-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Cocotb-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Vivado-FFFFFF?style=flat-square">
+  <img src="https://img.shields.io/badge/ModelSim-FFFFFF?style=flat-square">
+  <img src="https://img.shields.io/badge/Cocotb-FFFFFF?style=flat-square">
+  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=white">
 </p>
 
 <p>
