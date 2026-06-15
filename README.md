@@ -4,11 +4,11 @@
 
 <h3>Computer Engineer · FPGA · SoC · Embedded Systems</h3>
 
-<br>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E30613&height=1&section=header"/>
 
-<br>
+
 
 <p>
   <img src="https://img.shields.io/badge/VHDL-E30613?style=flat-square">
