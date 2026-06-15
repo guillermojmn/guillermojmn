@@ -24,20 +24,3 @@ Currently working on FPGA development for GNSS systems.
 </p>
 
 </div>
-
----
-
-### Selected work
-
-| Area                     | Projects                                       |
-| ------------------------ | ---------------------------------------------- |
-| FPGA / RTL               | Parking controller · Timer IP · LFSR generator |
-| Embedded Systems         | ESP32 sensing systems                          |
-| Safety-Critical Software | Real-time flight support system in Ada         |
-| Verification             | Simulation and testbench-based validation      |
-
----
-
-### Engineering focus
-
-Clean architecture. Deterministic behaviour. Reliable systems.
