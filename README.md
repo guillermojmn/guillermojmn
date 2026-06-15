@@ -4,15 +4,19 @@
 
 <h3>FPGA · SoC · Embedded Systems · DSP</h3>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E30613&height=2&section=header"/>
+
+<br>
+
 <p>
-  <code>VHDL</code>
-  <code>Verilog</code>
-  <code>C</code>
-  <code>Python</code>
-  <code>Vivado</code>
-  <code>ModelSim</code>
-  <code>Cocotb</code>
-  <code>Linux</code>
+  <img src="https://img.shields.io/badge/VHDL-E30613?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Verilog-E30613?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/C-E30613?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-E30613?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Vivado-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/ModelSim-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Cocotb-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white">
 </p>
 
 <p>
