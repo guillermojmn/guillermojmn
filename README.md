@@ -1,16 +1,19 @@
-## Hi there 👋
+```markdown
+# Guillermo Jiménez
 
-<!--
-**guillermojmn/guillermojmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineer focused on FPGA, SoC and Embedded Systems.
 
-Here are some ideas to get you started:
+I work mainly with VHDL, C and Python, with interest in digital design, firmware and signal processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- FPGA design
+- RTL development
+- Embedded systems
+- Digital signal processing
+- Hardware/software integration
+
+## Tools
+
+VHDL · Verilog · C · Python · Vivado · ModelSim · Cocotb · Git · Linux
+```
