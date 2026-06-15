@@ -1,19 +1,43 @@
 ```markdown
+<div align="center">
+
 # Guillermo Jiménez
 
-Computer Engineer focused on FPGA, SoC and Embedded Systems.
+### FPGA · SoC · Embedded Systems · DSP
 
-I work mainly with VHDL, C and Python, with interest in digital design, firmware and signal processing.
+<br>
 
-## Focus
+<code>VHDL</code>
+<code>Verilog</code>
+<code>C</code>
+<code>Python</code>
+<code>Vivado</code>
+<code>ModelSim</code>
+<code>Cocotb</code>
+<code>Linux</code>
 
-- FPGA design
-- RTL development
-- Embedded systems
-- Digital signal processing
-- Hardware/software integration
+<br><br>
 
-## Tools
+Computer Engineer focused on digital hardware, embedded systems and signal processing.
 
-VHDL · Verilog · C · Python · Vivado · ModelSim · Cocotb · Git · Linux
+Currently working on FPGA development for GNSS systems.
+
+</div>
+
+---
+
+### Selected work
+
+| Area | Projects |
+|---|---|
+| FPGA / RTL | Parking controller, timer IP, LFSR generator |
+| Embedded Systems | ESP32-based sensing systems |
+| Safety-Critical Software | Real-time flight support system in Ada |
+| Verification | Simulation and testbench-based validation |
+
+---
+
+### Engineering focus
+
+Clean architecture. Deterministic behaviour. Reliable systems.
 ```
