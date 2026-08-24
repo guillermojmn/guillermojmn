@@ -24,7 +24,7 @@ FPGA and embedded systems engineer focused on digital hardware, signal processin
 </p>
 
 <p>
-Currently working on FPGA development for GNSS systems.
+Based in Zürich, Switzerland.
 </p>
 
 <p>
